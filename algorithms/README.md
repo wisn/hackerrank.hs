@@ -1,4 +1,6 @@
 # Algorithms
+Go to [up](../)
+
 - [Warmup](warmup)
 - Implementation
 - Constructive Algorithms
