@@ -1,5 +1,5 @@
 # Solve Me First in Haskell
-Go to [Solve Me First](../..) problem.
+Go to [Solve Me First](..) problem.
 
 ```haskell
 main = do
