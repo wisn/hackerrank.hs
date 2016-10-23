@@ -1,5 +1,5 @@
 # Algorithms
-Go to [up](../)
+Go to [up](..)
 
 - [Warmup](warmup)
 - Implementation
