@@ -6,3 +6,4 @@ Go to [algorithms](../../algorithms) domain.
 ## Solve Me First
 Solution in
 - [Haskell](solve-me-first/haskell)
+- [Ruby](solve-me-first/ruby)
