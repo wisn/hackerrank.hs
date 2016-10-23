@@ -1,2 +1,2 @@
 # Warmup
-Go to [algorithms](algorithms/README.md) domain.
+Go to [algorithms](algorithms) domain.
