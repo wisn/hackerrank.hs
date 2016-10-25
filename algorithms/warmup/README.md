@@ -1,5 +1,5 @@
 # Warmup
-Go to [algorithms](../../algorithms) domain.
+Go to [Algorithms](../../algorithms) domain.
 
 - [Solve Me First](#solve-me-first)
 - [Simple Array Sum](#simple-array-sum)
