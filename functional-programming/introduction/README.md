@@ -3,6 +3,7 @@ Go to [Functional Programming](../../functional-programming) domain.
 
 - [Solve Me First FP](#solve-me-first-fp)
 - [Hello World](#hello-world)
+- [Hello World N Times](#hello-world-n-times)
 
 ## Solve Me First FP
 Solution in
@@ -11,4 +12,8 @@ Solution in
 ## Hello World
 Solution in
 - [Haskell](hello-world/haskell)
+
+## Hello World N Times
+Solution in
+- [Haskell](hello-world-n-times/haskell)
 
