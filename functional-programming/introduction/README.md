@@ -5,6 +5,7 @@ Go to [Functional Programming](../../functional-programming) domain.
 - [Hello World](#hello-world)
 - [Hello World N Times](#hello-world-n-times)
 - [List Replication](#list-replication)
+- [Filter Array](#filter-array)
 
 ## Solve Me First FP
 Solution in
@@ -21,4 +22,8 @@ Solution in
 ## List Replication
 Solution in
 - [Haskell](list-replication/haskell)
+
+## Filter Array
+Solution in
+- [Haskell](filter-array/haskell)
 
