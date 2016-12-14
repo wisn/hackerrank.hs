@@ -2,30 +2,25 @@
 Go to [Compare the Triplets](..) problem.
 
 ```haskell
-comparer [] [] n m = [n, m]
-comparer (x:xs) (y:ys) n m
-    | x > y = comparer xs ys (n + 1) m
-    | x < y = comparer xs ys n (m + 1)
-    | otherwise = comparer xs ys n m
-
 main = do
     line <- getLine
     let a = map read $ words line :: [Int]
-    
     line <- getLine
     let b = map read $ words line :: [Int]
-    
-    let result = comparer a b 0 0
-    
-    putStrLn $ show (head result) ++ " " ++ show (last result)
+
+    let pairs  = zipWith (-) a b
+        scoreA = length $ filter (> 0) pairs
+        scoreB = length $ filter (< 0) pairs
+
+    putStrLn $ (show scoreA) ++ " " ++ (show scoreB)
 ```
 
 ## Explanation
-1. Create a `comparer` function which comparing and collecting the points
-2. Take one line of user input as `line`
-3. Convert elements of the list to `Int` as `a` equation
-4. Take one line of user input as `line`
-5. Convert elements of the list to `Int` as `b` equation
-6. Compare `a` and `b` with `comparer` in `result` equation
-7. Print the result
-
+1. Take one line of user input as `line`
+2. Convert elements of the list to `Int` as `a` equation
+3. Take one line of user input as `line`
+4. Convert elements of the list to `Int` as `b` equation
+5. Do subtraction to `a` and `b` list
+6. For every number from `pairs`, if it's `> 0`, then it's a score for Alice
+7. For every number from `pairs`, if it's `< 0`, then it's a score for Bob
+8. Print the result. `scoreA` for Alice, and `scoreB` for Bob
