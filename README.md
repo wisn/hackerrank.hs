@@ -1,5 +1,5 @@
 # HackerRank
-A collection of HackerRank Solutions with explanation.
+A collection of HackerRank Solutions in Haskell.
 
 ## Domains
 - [Algorithms](algorithms)
