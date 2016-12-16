@@ -6,5 +6,8 @@ Go to [Algorithms](../../algorithms) domain.
 - [Compare the Triplets](compare-the-triplets.hs)
 - [A Very Big Sum](a-very-big-sum.hs)
 - Diagonal Difference
-- Plus Minus
+- [Plus Minus](plus-minus.hs)
 - [Staircase](staircase.hs)
+- Time Conversion
+- Circular Array Rotation
+
