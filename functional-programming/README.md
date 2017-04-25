@@ -2,7 +2,7 @@
 Go to [Domains List](../../../).
 
 - [Introduction](introduction)
-- Recursion
+- [Recursion](recursion)
 - Functional Structures
 - Memoization and DP
 - Persistent Structures

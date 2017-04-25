@@ -6,13 +6,13 @@ Go to [Functional Programming](../../functional-programming) domain.
 - [Hello World N Times](hello-world-n-times.hs)
 - [List Replication](list-replication.hs)
 - [Filter Array](filter-array.hs)
-- Filter Positions in a List
+- [Filter Positions in a List](filter-positions-in-a-list.hs)
 - [Array Of N Elements](array-of-n-elements.hs)
 - [Reverse a List](reverse-a-list.hs)
 - [Sum of Odd Elements](sum-of-odd-elements.hs)
 - [List Length](list-length.hs)
 - [Update List](update-list.hs)
-- Evaluating e^x
+- [Evaluating e^x](evalulating-e-x.hs)
 - Area Under Curves and Volume of Revolving a Curve
 - [Lambda Calculus - Reduction #1](lambda-calculus-reduction-1.hs)
 - [Lambda Calculus - Reduction #2](lambda-calculus-reduction-2.hs)
